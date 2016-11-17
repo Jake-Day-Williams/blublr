@@ -1,10 +1,6 @@
-# Project Name
+# blublr
 
-blublr
-
-## About
-
-A writing and social media platform.
+## A writing and social media platform.
 
 ## Screenshots
 
