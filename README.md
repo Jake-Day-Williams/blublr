@@ -1,6 +1,7 @@
 # blublr
 
-## A writing and social media platform.
+## About
+A writing and social media platform.
 
 ## Screenshots
 
