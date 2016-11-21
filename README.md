@@ -1,8 +1,6 @@
 # BLUBLR
 
-A writing and social media platform.
-
---- 
+#### A writing and social media platform.
 
 ## Screenshots
 
